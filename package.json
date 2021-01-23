@@ -1,6 +1,6 @@
 {
   "name": "ts-node-tmpl",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "TypeScript and Node.js template",
   "main": "index.js",
   "license": "MIT",
