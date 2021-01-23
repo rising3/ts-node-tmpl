@@ -9,9 +9,13 @@ TypeScriptを利用してnode.jsの開発を行うためのテンプレートで
 * prettier
 * typedoc
 
-## dev dependencies modules.
+## dependencies modules.
 
 次のモジュールは [package.json](/package.json) で管理しています。
+
+### dependencies
+
+### devDependencies
 
 * typescript
 * tsc-alias
@@ -88,7 +92,7 @@ TypeScriptを利用してnode.jsの開発を行うためのテンプレートで
 
 #### 設定ファイル
 
-* [jest.config.json](/jest.config.json)
+* [jest.config.ts](/jest.config.ts)
 
 ### eslint
 
@@ -193,9 +197,14 @@ yarn lint:fix
 yarn typedoc
 ```
 
-## 参照
+## 参考
 
+* [Node.js 日本語](https://nodejs.org/ja/)
 * [TypeScript 日本語](https://www.typescriptlang.org/ja/)
 * [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/)
+* [BABEL Docs](https://babeljs.io/docs/en/)
 * [JEST 日本語](https://jestjs.io/ja/)
 * [ESLint rules](https://eslint.org/docs/rules/)
+* [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
+* [Coding guidelines - Microsoft/TypeScript Wiki - GitHub](https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines)
+* [スタイルガイド（コーディング規約）- TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/styleguide)

@@ -1,5 +1,5 @@
 import * as http from 'http'
-import { Hello } from '@/Hello'
+import { Hello } from '@/hello'
 
 const hostname = '127.0.0.1'
 const port = 3000

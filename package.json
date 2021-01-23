@@ -52,8 +52,7 @@
     }
   },
   "lint-staged": {
-    "./src/*.{js,ts,json}": "yarn eslint --cache --fix",
-    "./src/*.ts": "yarn tsc --noEmit"
+    "./src/*.{js,ts,json}": "yarn eslint --cache --fix"
   },
   "dependencies": {}
 }
